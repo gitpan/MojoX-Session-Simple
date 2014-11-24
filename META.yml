@@ -31,7 +31,7 @@ no_index:
 provides:
   MojoX::Session::Simple:
     file: lib/MojoX/Session/Simple.pm
-    version: '0.01'
+    version: '0.02'
 requires:
   Mojolicious: '0'
   Plack::Middleware::Session::Simple: '0'
@@ -40,7 +40,9 @@ resources:
   bugtracker: https://github.com/yowcow/p5-MojoX-Session-Simple/issues
   homepage: https://github.com/yowcow/p5-MojoX-Session-Simple
   repository: git://github.com/yowcow/p5-MojoX-Session-Simple.git
-version: '0.01'
+version: '0.02'
 x_authority: cpan:YOWCOW
 x_contributors:
+  - 'Olaf Alders <olaf@wundersolutions.com>'
+  - 'yowcow <yowcow@users.noreply.github.com>'
   - 'yowcow <yowcow@gmail.com>'

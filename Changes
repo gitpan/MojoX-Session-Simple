@@ -1,5 +1,9 @@
 Revision history for Perl extension MojoX-Session-Adapter-PSGI
 
+0.02 2014-11-24T04:14:27Z
+
+    - Fixes typo in module name. (@oalders)
+
 0.01 2014-11-21T13:15:22Z
 
     - original version
